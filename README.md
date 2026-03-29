@@ -1,10 +1,9 @@
 # Reinforcement-Learning-Marketing
-
-# 🤖 Reinforcement Learning for Optimizing Marketing Discount Strategies
-
-# Description:  
 Group academic project applying reinforcement learning (Q-learning)  
 to identify the most effective discount strategy for different customer income groups.
+
+
+🤖 Reinforcement Learning for Optimizing Marketing Discount Strategies
 
 ## 🛠️ Tools
 
